@@ -1,3 +1,8 @@
+k.j.pawlowski #brl33 PmP Polska
+Exteme pen tests titans of coding
+We create code 
+Innovating cyber being
+All Rights Reserved
 // SPDX-FileCopyrightText: 2021 Lido <info@lido.fi>
 
 // SPDX-License-Identifier: GPL-3.0

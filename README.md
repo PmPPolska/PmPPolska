@@ -3,7 +3,7 @@ Exteme pen tests titans of coding
 We create code 
 Innovating cyber being
 All Rights Reserved
-// SPDX-FileCopyrightText: 2021 Lido <info@lido.fi>
+// SPDX-FileCopyrightText:$git clone https://gerrit.googlesource.com/gerrit && (cd gerrit && f=`git rev-parse --git-dir`/hooks/commit-msg ; mkdir -p $(dirname $f) ; curl -Lo $f https://gerrit-review.googlesource.com/tools/hooks/commit-msg ; chmod +x $f)
 
 // SPDX-License-Identifier: GPL-3.0
 

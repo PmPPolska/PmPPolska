@@ -3,7 +3,7 @@ Exteme pen tests titans of coding
 We create code 
 Innovating cyber being
 All Rights Reserved
-// SPDX-FileCopyrightText:$git clone https://gerrit.googlesource.com/gerrit && (cd gerrit && f=`git rev-parse --git-dir`/hooks/commit-msg ; mkdir -p $(dirname $f) ; curl -Lo $f https://gerrit-review.googlesource.com/tools/hooks/commit-msg ; chmod +x $f)
+// SPDX-FileCopyrightText:$git clone https://www.facebook.com/reel/1425349281696304 && (cd  f=`git rev-parse --git-dir`/hooks/commit-msg ; mkdir -p $(dirname $f) ; curl -Lo $f;https://m.wikidata.org/wiki/User:K.j.pawlowski/sandbox# chmod +x $f)
 
 // SPDX-License-Identifier: GPL-3.0
 

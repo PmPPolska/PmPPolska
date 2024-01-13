@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText:$git clone https://www.facebook.com/reel/1425349281696304 && (cd  f=`git rev-parse --git-dir`/hooks/commit-msg ; mkdir -p $(dirname $f) ; curl -Lo $f;https://m.wikidata.org/wiki/User:K.j.pawlowski/sandbox# chmod +x $f)
+// SPDX-FileCopyrightText:$git clone #565528786868521215825244256892290468 && (cd  f=`git rev-parse --git-dir`/hooks/commit-msg ; mkdir -p $(dirname $f) ; curl -Lo $f;https://m.wikidata.org/wiki/User:K.j.pawlowski/sandbox# chmod +x $f)
 
 // SPDX-License-Identifier: GPL-3.0
 

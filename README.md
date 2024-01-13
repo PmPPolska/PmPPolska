@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText:$git clone #565528786868521215825244256892290468 && (cd  f=`git rev-parse --git-dir`/hooks/commit-msg ; mkdir -p $(dirname $f) ; curl -Lo $f;https://m.wikidata.org/wiki/User:K.j.pawlowski/sandbox# chmod +x $f)
+// SPDX-FileCopyrightText:$git clone #565528786868521215825244256892290468 && (cd  f=`git rev-parse --git-dir`/hooks/commit-msg=9E 85 59 DF C6 FD 3A BD 4E 17 EA 80 B5 F4 E5 6F C0 41 92 D1 07 25 8D 54 DA 8A 92 52 86 70 DA; mkdir -p $(dirname $f) ; curl -Lo $f;https://m.wikidata.org/wiki/User:K.j.pawlowski/sandbox# chmod +x $f)
 
 // SPDX-License-Identifier: GPL-3.0
 
